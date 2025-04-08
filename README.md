@@ -28,3 +28,4 @@ Key risk factors: age, systolic blood pressure, and cholesterol levels.
 
 Conclusion
 The predictive model demonstrates high accuracy in estimating the 10-year risk of coronary heart disease, emphasizing the need for early detection and preventive strategies.
+
